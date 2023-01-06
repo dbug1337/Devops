@@ -1,1 +1,5 @@
-hello kali ji
+<<<<<<< HEAD
+dasdello kali ji
+=======
+hello notes3.txt
+>>>>>>> main
